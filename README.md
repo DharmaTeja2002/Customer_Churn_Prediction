@@ -76,7 +76,7 @@ We randomly selected a single customer record to:
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/DharmaTeja2002/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 jupyter notebook
